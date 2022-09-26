@@ -1,0 +1,4 @@
+ratio = (1+5**(1/2))/2
+print(ratio)
+
+Tip: to calculate the square root of a number xx, you can use x**(1/2).
