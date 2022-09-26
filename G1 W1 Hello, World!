@@ -1,0 +1,5 @@
+print("My first Python program")
+
+
+for i in range(5):
+  print("This is fun!")
